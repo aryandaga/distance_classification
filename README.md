@@ -10,7 +10,9 @@ Distance-based classification is a fundamental approach in machine learning, whe
 
 - **Face Detection and Clustering**: Utilizing the implemented distance metrics, the project performs face detection and clustering on a set of images. This involves detecting faces within images and grouping similar faces together based on the chosen distance measures.
 
-
+https://github.com/aryandaga/distance_classification/blob/main/detected%20faces.jpg
+https://github.com/aryandaga/distance_classification/blob/main/clustered_faces.png
+https://github.com/aryandaga/distance_classification/blob/main/scatter%20plot%20face%20clustering.png
 
 ## Repository Structure
 
@@ -74,3 +76,4 @@ For more information on distance metrics and their applications, refer to the pr
 ---
 
 *Note: This project is part of the MLPR Lab coursework and is intended for educational purposes.* 
+
