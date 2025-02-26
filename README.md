@@ -10,8 +10,13 @@ Distance-based classification is a fundamental approach in machine learning, whe
 
 - **Face Detection and Clustering**: Utilizing the implemented distance metrics, the project performs face detection and clustering on a set of images. This involves detecting faces within images and grouping similar faces together based on the chosen distance measures.
 
-C:\Users\aryan\GitHub\armaan\distance_classification\clustered_faces.png
-C:\Users\aryan\GitHub\armaan\distance_classification\Clustering with template image.png
+![clustered_faces](https://github.com/user-attachments/assets/a2360023-7867-496b-8a7e-1ceb7bd7b4fe)
+![Clustering with template image](https://github.com/user-attachments/assets/4044afd5-ccd8-4551-83f1-24690abe4fb5)
+![detected faces](https://github.com/user-attachments/assets/e934530d-6b97-4dd1-8067-750c2e5961d3)
+![Scatter plot clustering with template image](https://github.com/user-attachments/assets/24bc4ce8-86d3-4f8b-972c-df5e594b7065)
+![scatter plot face clustering](https://github.com/user-attachments/assets/186e808c-365e-4971-afa5-5d54d6a86868)
+
+
 ## Repository Structure
 
 The repository is organized as follows:
